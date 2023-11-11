@@ -74,7 +74,6 @@ body {
 
 .justify-content-start {
     justify-content: flex-start!important;
-    margin-left: 9rem;
 }
 
 :root {
