@@ -72,10 +72,6 @@ body {
     background-color: white;
 }
 
-.first{
-    margin-left: -11rem;
-}
-
 .justify-content-start {
     justify-content: flex-start!important;
     margin-left: 9rem;
