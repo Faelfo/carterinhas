@@ -152,3 +152,7 @@ html {
     --bs-text-opacity: 1;
     color: rgba(var(--bs-white-rgb),var(--bs-text-opacity))!important;
 }
+
+.first{
+    margin-left: -11rem;
+}
